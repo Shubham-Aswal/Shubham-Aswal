@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Shubham-Aswal/Shubham-Aswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) student
+🎮 Aspiring Game Developer | 💻 Java & CS Fundamentals
+🚀 Learning by building, breaking, and rebuilding
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Passionate about Game Development and interactive experiences
+
+🧠 Strong interest in problem-solving, logic, and core CS concepts
+
+💡 Exploring Java, DSA, Web basics, and 3D Game Dev
+
+🛠️ Love turning ideas into working projects
+
+🌱 Currently learning: Java, DSA, Unity / 3D Game Development
