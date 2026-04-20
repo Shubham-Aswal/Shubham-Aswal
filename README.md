@@ -10,8 +10,8 @@
 
 🧠 Strong interest in problem-solving, logic, and core CS concepts
 
-💡 Exploring Java, DSA, Web basics, and 3D Game Dev
+💡 Exploring Java, DSA, Web basics
 
 🛠️ Love turning ideas into working projects
 
-🌱 Currently learning: Java, DSA, Unity / 3D Game Development
+🌱 Currently learning: Java
