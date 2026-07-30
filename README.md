@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-🎓 B.Tech CSE (AI & ML) student
-🎮 Aspiring Game Developer | 💻 Java & CS Fundamentals
+🎓 B.Tech CSE (AI & ML) student | 💻 Java & CS Fundamentals
 🚀 Learning by building, breaking, and rebuilding
 
 🚀 About Me
